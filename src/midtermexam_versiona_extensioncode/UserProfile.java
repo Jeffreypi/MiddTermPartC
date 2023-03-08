@@ -16,6 +16,7 @@ import java.util.Scanner;
  * Students are reminded to add themselves as modifiers when editing the
  * code.
  * @author dancye, 2019
+ * @author Jeffrey Pincombe
  */
 public class UserProfile 
 {
@@ -106,5 +107,8 @@ public class UserProfile
             }
                     
         }
+    }
+    public class JeffreyPincombe{
+    //created a new class
     }
     }
